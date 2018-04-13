@@ -4,7 +4,7 @@ Anonymized transactions using coin mixing technology. 1-Second-Transactions. Net
 
 # Coin Specs
 
-• PoW Algorithm: Quark
+• PoW Algorithm: Quark<br />
 • Premine: (#1 Block) 410,000 LPA (14% of PoW) For 10 masternodes to build secret dating site's darksend feature, dating site referal bonus.
 • PoW Blocks: 2 - 1051200
 • PoS Blocks: Starting from 1051200
@@ -14,6 +14,7 @@ Anonymized transactions using coin mixing technology. 1-Second-Transactions. Net
 • Masternode Requirements: 10,000 LPA
 • Maturity: 120 Confirmations
 • Prefix: LPA adresses start with the capital letter "L"
+
 
 # PoW Reward Distribution
 
