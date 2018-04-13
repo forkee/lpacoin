@@ -1,0 +1,26 @@
+# /etc/conf.d/lpad: config file for /etc/init.d/lpad
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/lpa/lpa.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/lpad"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/lpad.pid"
+
+# Where to write lpad data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/lpad"
+
+# User and group to own lpad process
+#BITCOIND_USER="lpa"
+#BITCOIND_GROUP="lpa"
+
+# Path to lpad executable
+#BITCOIND_BIN="/usr/bin/lpad"
+
+# Nice value to run lpad under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

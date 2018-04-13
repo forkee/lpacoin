@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LPA
+Comment=LPA P2P Cryptocurrency
+Comment[fr]=LPA, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LPA, eşten eşe kriptografik sanal para birimi
+Exec=lpa-qt %u
+Terminal=false
+Type=Application
+Icon=lpa128
+MimeType=x-scheme-handler/lpa;
+Categories=Office;Finance;
