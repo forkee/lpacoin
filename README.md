@@ -5,15 +5,15 @@ Anonymized transactions using coin mixing technology. 1-Second-Transactions. Net
 # Coin Specs
 
 • PoW Algorithm: Quark<br />
-• Premine: (#1 Block) 410,000 LPA (14% of PoW) For 10 masternodes to build secret dating site's darksend feature, dating site referal bonus.
-• PoW Blocks: 2 - 1051200
-• PoS Blocks: Starting from 1051200
-• Block Time: 60 Seconds
-• PoW Max Coin Output/Supply: 6,991,840
-• PoW Ending: ~ ca. 730 Days (Estimated: 12/2020)
-• Masternode Requirements: 10,000 LPA
-• Maturity: 120 Confirmations
-• Prefix: LPA adresses start with the capital letter "L"
+• Premine: (#1 Block) 410,000 LPA (14% of PoW) For 10 masternodes to build secret dating site's darksend feature, dating site referal bonus.<br />
+• PoW Blocks: 2 - 1051200<br />
+• PoS Blocks: Starting from 1051200<br />
+• Block Time: 60 Seconds<br />
+• PoW Max Coin Output/Supply: 6,991,840<br />
+• PoW Ending: ~ ca. 730 Days (Estimated: 12/2020)<br />
+• Masternode Requirements: 10,000 LPA<br />
+• Maturity: 120 Confirmations<br />
+• Prefix: LPA adresses start with the capital letter "L"<br />
 
 
 # PoW Reward Distribution
