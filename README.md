@@ -1,3 +1,4 @@
+![Image of QuDexPay](src/qt/res/icons/bitcoin.png)
 LPA is a coin for secret dating that has feature darksend, masternode for supporting private meet up.
 
 Anonymized transactions using coin mixing technology. 1-Second-Transactions. Network stability with masternodes, each is secured with a collateral of 10.000 LPA. 100% Governance.
